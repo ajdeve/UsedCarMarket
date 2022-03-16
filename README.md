@@ -13,7 +13,7 @@ Asymmetric information, also known as “information failure,” takes place dur
 
 
 ## Project Flow
-![project_flow](Used Cars Market.pptx.png)
+![project_flow](pjflow.jpg)
 
 
 ## Models 
